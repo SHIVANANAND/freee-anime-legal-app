@@ -232,7 +232,6 @@ The app includes different card sizes for optimal display:
 - **Small**: Minimal size for special cases
 
 Grid layouts automatically use compact cards for better mobile experience.
-```
 
 ### Adding New Anime Data
 
