@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FreeAnime</string>
+    <string name="title_activity_main">FreeAnime</string>
+    <string name="package_name">com.freeanime.app</string>
+    <string name="custom_url_scheme">com.freeanime.app</string>
+</resources>
