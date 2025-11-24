@@ -15,7 +15,7 @@ A modern, fully static anime streaming application that can be deployed to GitHu
 
 ## 📱 Live Demo
 
-- **Web App**: [GitHub Pages](https://yourusername.github.io/freee-anime-legal-app/)
+- **Web App**: [GitHub Pages](https://SHIVANANAND.github.io/freee-anime-legal-app/)
 - **Android APK**: Download from releases
 
 ## 🛠️ Tech Stack
