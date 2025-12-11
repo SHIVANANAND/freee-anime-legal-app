@@ -1,3 +1,7 @@
+<img width="1080" height="810" alt="1" src="https://github.com/user-attachments/assets/f80811d7-f24b-41c9-99d1-69fdb936331c" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/9521d58f-383a-4a19-9afa-bf47c8828d03" />
+
+
 # FreeAnime - Static Web App & Android APK
 
 A modern, fully static anime streaming application that can be deployed to GitHub Pages and converted to an offline Android app using Capacitor.js.
